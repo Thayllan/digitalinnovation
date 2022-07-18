@@ -1,6 +1,6 @@
 package one.digitalinnovation.digiobank
 
- open class Pessoa (
+ abstract class Pessoa (
     open val nome: String,
     open val cpf: String
         )
